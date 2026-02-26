@@ -1,7 +1,7 @@
 {
-  "developer": "",
-  "score": 0,
+  "developer": "annel daza",
+  "score": 100,
   "maxScore": 100,
-  "completedTasks": []
+  "completedTasks": ["feature branch, merge conflict, squash, cherry-pick, hard reset"]
 }
 
